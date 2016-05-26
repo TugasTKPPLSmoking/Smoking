@@ -61,3 +61,24 @@ Kelvin Ang Viesta
 1. mempelajari tentang jade dan mencari referensi penggunaan jade
 2. mencoba menerapkan jade
 3. tidak ada
+
+Daily Scrum - 26/05/2016
+Kelvin Ang Viesta( Scrum Master )
+1. Mencoba Menerapkan Jade
+2. Mencari dan mempelajari Template Bespoke
+3. tidak ada
+
+Kelvin
+1. Mengarahan Teman Team tentang cloning Repository
+2. Pembuatan Desaign Bespoke Sesuai Mockup Sesuai Dengan Presentasi
+3. tidak ada
+
+Hans Liu Winarta
+1. Menerapkan Stylus
+2. Mempelajari Plug in Pada Bespoke
+3. tidak ada
+
+Luciano prawira
+1. Mencari Materi Bahaya Rokok
+2. Mencari Bahan Berupa Gambar Seputar Bahaya Merokok
+3. tidak ada
