@@ -3,6 +3,8 @@
 
 ## View slides locally
 
+Jangan LUPA lakukan git pull sebelum memulai untuk mengedit files <guna mencegah terjadinya konflik pada file>
+
 First, ensure you have the following installed:
 
 1. [Node.js](http://nodejs.org)
