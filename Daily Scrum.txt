@@ -39,3 +39,25 @@ Kelvin Ang Viesta
 1. mempelajari tentang jade
 2. mempelajari tentang jade dan mencari referensi penggunaan jade
 3. masih asing dengan jade
+
+
+Daily Scrum - 25/05/2016
+Kelvin ( Scrum Master )
+1. perubahan deadline untuk backlog dan perancangan mockup
+2. pengarahan kepada teman satu team tentang cloning repository
+3. tidak ada
+
+Hans Liu Winarta
+1. mempelajari tentang stylus dan mencari referensi penggunaan stylus
+2. mencoba menerapkan stylus.
+3. tidak ada
+
+Luciano prawira
+1. mencari materi tentang rokok
+2. mencari materi tentang rokok
+3. tidak ada
+
+Kelvin Ang Viesta
+1. mempelajari tentang jade dan mencari referensi penggunaan jade
+2. mencoba menerapkan jade
+3. tidak ada
