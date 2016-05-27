@@ -1,9 +1,10 @@
 # Danger of Smoking
 > A [Bespoke.js](http://markdalgleish.com/projects/bespoke.js) presentation, built with [generator-bespoke](https://github.com/markdalgleish/generator-bespoke)
 
-## View slides locally
-
 Jangan LUPA lakukan git pull sebelum memulai untuk mengedit files <guna mencegah terjadinya konflik pada file>
+by lucianoprawira : pembuatan git branch akan di buat besok dan akan saya beritahu nama brannch di trello secepatnya.
+
+## View slides locally
 
 First, ensure you have the following installed:
 
