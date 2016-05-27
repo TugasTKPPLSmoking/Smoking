@@ -82,3 +82,24 @@ Luciano prawira
 1. Mencari Materi Bahaya Rokok
 2. Mencari Bahan Berupa Gambar Seputar Bahaya Merokok
 3. tidak ada
+
+Daily Scrum - 27/05/2016
+Kelvin Ang Viesta( Scrum Master )
+1. Mencari dan mempelajari Template Bespoke
+2. Penambahan Slide Presentase
+3. tidak ada
+
+Kelvin
+1. Pembuatan Desaign Bespoke Sesuai Mockup Sesuai Dengan Presentasi
+2. Pembuatan Desaign Bespoke Sesuai Mockup Sesuai Dengan Presentasi
+3. tidak ada
+
+Hans Liu Winarta
+1. Mempelajari Plug in Pada Bespoke
+2. Mencari Template Presentase
+3. tidak ada
+
+Luciano prawira
+1. Mencari Bahan Berupa Gambar Seputar Bahaya Merokok
+2. Pembuatan Branching
+3. tidak ada
