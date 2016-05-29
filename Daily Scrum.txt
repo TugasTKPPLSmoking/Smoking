@@ -124,3 +124,24 @@ Luciano prawira
 1. Pembuatan Branching
 2. Memulai Bereksperimen di Brancing Eksperimen
 3. tidak ada
+
+Daily Scrum - 29/05/2016
+Hans Liu Winarta( Scrum Master )
+1. Memulai Bereksperimen di Brancing Eksperimen
+2. Revisi penulisan pada list nama anggota kelompok
+3. tidak ada
+
+Kelvin
+1. Pembuatan Desaign Bespoke Sesuai Mockup Sesuai Dengan Presentasi
+2. Revisi ukuran gambar untuk halaman awal
+3. tidak ada
+
+Kelvin Angviesta
+1. Revisi Pada Stylus
+2. Penambahan gambar baru dan revisi pada stylus
+3. tidak ada
+
+Luciano prawira
+1. Memulai Bereksperimen di Brancing Eksperimen
+2. Menambahkan gambar depan pada slide awal di branch eksperimen
+3. tidak ada
