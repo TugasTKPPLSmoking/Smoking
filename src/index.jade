@@ -11,7 +11,7 @@ html
 
   body
 
-    article#backgroundcolor
+    article
 
       section.back1
         h1
@@ -40,7 +40,9 @@ html
       section
         img(src='images/smokingmen.jpg' style='width:300px;height:350px')
     
-      
+      section(data-bespoke-state="white")
+        h2 Test
+
       section
         h2.bullet Apakah saja yang ada di dalam rokok??
         h2.bullet Apakah anda tahu??
@@ -85,7 +87,16 @@ html
           line(x1="0" y1="0" x2="650" y2="0" style="stroke:whiteSmoke;stroke-width:2")
         ul.bullet
           li Merupakan sejenis gas yang tidak mempunyai bau dan dihasilkan dari pembakaran yang tidak sempurna dari unsure zat arang atau karbon. Zat ini sangat beracunkarena dapat mengikat hemoglobin yang terdapat dalam darah, sehingga membuat darah tidak mampu mengikat oksigen 
-     
+      
+      section
+        h2 Jenis Motivasi Merokok
+        svg(height="10" width="650")
+          line(x1="0" y1="0" x2="650" y2="0" style="stroke:whiteSmoke;stroke-width:2")
+        ul.bullet
+          li Alat pergaulan (psikososial). Merokok pada situasi sosial dan menggunakan nilai simbolis dari tindakan merokok ini untuk meningkatkan kehidupan bersosial.           
+
+      section(data-bespoke-state="dangerrokok1")
+
       section.dampak
         h2 Dampak Merokok Bagi Kesehatan
         svg(height="10" width="650")
@@ -102,15 +113,11 @@ html
         ul.bullet
           li Perokok bisa juga mengalahi hal buruk dalam sosialisasinya. Ia mungkin akan dijauhi teman-temannya yang tidak suka dengan rokok. Bagi pria,bisa saja ia dijauhi oleh para wanita (umumnya wanita tidak suka perokok). 
 
-      section
-        h2 Jenis Motivasi Merokok
-        svg(height="10" width="650")
-          line(x1="0" y1="0" x2="650" y2="0" style="stroke:whiteSmoke;stroke-width:2")
-        ul.bullet
-          li Alat pergaulan (psikososial). Merokok pada situasi sosial dan menggunakan nilai simbolis dari tindakan merokok ini untuk meningkatkan kehidupan bersosial. 
+      
       
       section
-        h3 Masih Berani Merokok?
+        h2 Masih Berani Merokok?
+        br
         img(src='images/Bocah.gif' style='width:100px;height:100px')
 
     script(src='build/build.js')

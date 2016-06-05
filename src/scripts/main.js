@@ -7,6 +7,7 @@ var bespoke = require('bespoke'),
   backdrop = require('bespoke-backdrop'),
   scale = require('bespoke-scale'),
   hash = require('bespoke-hash'),
+  state = require('bespoke-state'),
   progress = require('bespoke-progress'),
   forms = require('bespoke-forms');
 
@@ -19,6 +20,7 @@ bespoke.from('article', [
   backdrop(),
   scale(),
   hash(),
+  state(),
   progress(),
   forms()
 ]);
