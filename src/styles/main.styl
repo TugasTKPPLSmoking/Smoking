@@ -5,6 +5,8 @@
 // thanks to Stylus' "import css" and "paths" options
 
 @import 'prism/themes/prism-okaidia.css'
+
+
 // Check out "bower_components/prism/themes/" for available themes
 
 
@@ -27,7 +29,7 @@
 body
 	background-repeat: no-repeat
 	background-attachment: fixed
-	font-family: Gotham
+	font-family: gotham_font
 	color: whiteSmoke
 
 .gambarHeader
@@ -35,13 +37,6 @@ body
 	background-repeat: no-repeat
 
 #backgroundcolor
-	//background rgb(255,255,255)
-	//background -moz-radial-gradient(center, ellipse cover, rgba(255,255,255,1) 0%, rgba(200,200,200,1) 100%)
-	//background -webkit-gradient(radial, center center, 0px, center center, 100%, color-stop(0%, rgba(255,255,255,1)), color-stop(100%, rgba(200,200,200,1)))
-	//background -webkit-radial-gradient(center, ellipse cover, rgba(255,255,255,1) 0%, rgba(200,200,200,1) 100%)
-	//background -o-radial-gradient(center, ellipse cover, rgba(255,255,255,1) 0%, rgba(200,200,200,1) 100%)
-	//background -ms-radial-gradient(center, ellipse cover, rgba(255,255,255,1) 0%, rgba(200,200,200,1) 100%)
-	//background radial-gradient(ellipse at center, rgba(255,255,255,1) 0%, rgba(200,200,200,1) 100%)
 	background black
 
 
@@ -57,6 +52,11 @@ body
 	background-size: 100% 100% 
 	background-position: center
 
+#kandungan
+	ul
+		li
+			font-size: 20pt
+			font-weight: bold
 
 section
 	h2
@@ -68,10 +68,12 @@ section
 		line-height: 1.5
 		color: white
 		text-align: justify
+		b
+			font-weight: bold
 
 	ul
 		li
-			font-size: 15pt
+			font-size: 16pt
 			line-height: 2
 
 .bespoke-before
