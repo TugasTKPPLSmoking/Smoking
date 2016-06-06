@@ -1,6 +1,11 @@
 # Danger of Smoking
 > A [Bespoke.js](http://markdalgleish.com/projects/bespoke.js) presentation, built with [generator-bespoke](https://github.com/markdalgleish/generator-bespoke)
 
+
+DEVELOPER NOTES :
+untuk member
+Lakukan perintah 'git checkout master', setelah itu lakukan 'git pull' untuk mengambil presentasi final.
+
 Jangan LUPA lakukan git pull sebelum memulai untuk mengedit files <guna mencegah terjadinya konflik pada file>
 by lucianoprawira : pembuatan git branch akan di buat besok dan akan saya beritahu nama brannch di trello secepatnya.
 
