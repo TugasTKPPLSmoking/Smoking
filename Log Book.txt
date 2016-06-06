@@ -1,0 +1,267 @@
+Daily Scrum - 23/05/2016
+Kelvin ( Scrum Master )
+1. -
+2. pembentukan repository dan pembagian tugas backlog
+3. tidak ada
+
+Hans Liu Winarta
+1. -
+2. mempelajari tentang stylus
+3. masih asing dengan nama stylus.
+
+Luciano prawira
+1. -
+2. mencari materi tentang rokok
+3. tidak ada
+
+Kelvin Ang Viesta
+1. -
+2. mempelajari tentang jade
+3. masih asing dengan jade
+
+Daily Scrum - 24/05/2016
+Kelvin ( Scrum Master )
+1. Pembuatan repository awal
+2. perubahan deadline untuk backlog dan perancangan mockup
+3. tidak ada
+
+Hans Liu Winarta
+1. mempelajari tentang stylus
+2. mempelajari tentang stylus dan mencari referensi penggunaan stylus
+3. masih asing dengan nama stylus.
+
+Luciano prawira
+1. mencari materi tentang rokok
+2. mencari materi tentang rokok
+3. tidak ada
+
+Kelvin Ang Viesta
+1. mempelajari tentang jade
+2. mempelajari tentang jade dan mencari referensi penggunaan jade
+3. masih asing dengan jade
+
+
+Daily Scrum - 25/05/2016
+Kelvin ( Scrum Master )
+1. perubahan deadline untuk backlog dan perancangan mockup
+2. pengarahan kepada teman satu team tentang cloning repository
+3. tidak ada
+
+Hans Liu Winarta
+1. mempelajari tentang stylus dan mencari referensi penggunaan stylus
+2. mencoba menerapkan stylus.
+3. tidak ada
+
+Luciano prawira
+1. mencari materi tentang rokok
+2. mencari materi tentang rokok
+3. tidak ada
+
+Kelvin Ang Viesta
+1. mempelajari tentang jade dan mencari referensi penggunaan jade
+2. mencoba menerapkan jade
+3. tidak ada
+
+Daily Scrum - 26/05/2016
+Kelvin Ang Viesta( Scrum Master )
+1. Mencoba Menerapkan Jade
+2. Mencari dan mempelajari Template Bespoke
+3. tidak ada
+
+Kelvin
+1. Mengarahan Teman Team tentang cloning Repository
+2. Pembuatan Desaign Bespoke Sesuai Mockup Sesuai Dengan Presentasi
+3. tidak ada
+
+Hans Liu Winarta
+1. Menerapkan Stylus
+2. Mempelajari Plug in Pada Bespoke
+3. tidak ada
+
+Luciano prawira
+1. Mencari Materi Bahaya Rokok
+2. Mencari Bahan Berupa Gambar Seputar Bahaya Merokok
+3. tidak ada
+
+Daily Scrum - 27/05/2016
+Kelvin Ang Viesta( Scrum Master )
+1. Mencari dan mempelajari Template Bespoke
+2. Penambahan Slide Presentase
+3. tidak ada
+
+Kelvin
+1. Pembuatan Desaign Bespoke Sesuai Mockup Sesuai Dengan Presentasi
+2. Pembuatan Desaign Bespoke Sesuai Mockup Sesuai Dengan Presentasi
+3. tidak ada
+
+Hans Liu Winarta
+1. Mempelajari Plug in Pada Bespoke
+2. Mencari Template Presentase
+3. tidak ada
+
+Luciano prawira
+1. Mencari Bahan Berupa Gambar Seputar Bahaya Merokok
+2. Pembuatan Branching
+3. tidak ada
+
+Daily Scrum - 28/05/2016
+Kelvin Ang Viesta( Scrum Master )
+1. Penambahan Slide Presentase
+2. Revisi Pada Stylus
+3. tidak ada
+
+Kelvin
+1. Pembuatan Desaign Bespoke Sesuai Mockup Sesuai Dengan Presentasi
+2. Pembuatan Desaign Bespoke Sesuai Mockup Sesuai Dengan Presentasi
+3. tidak ada
+
+Hans Liu Winarta
+1. Mencari Template Presentase
+2. Memulai Bereksperimen di Brancing Eksperimen
+3. tidak ada
+
+Luciano prawira
+1. Pembuatan Branching
+2. Memulai Bereksperimen di Brancing Eksperimen
+3. tidak ada
+
+Daily Scrum - 29/05/2016
+Hans Liu Winarta( Scrum Master )
+1. Memulai Bereksperimen di Brancing Eksperimen
+2. Revisi penulisan pada list nama anggota kelompok
+3. tidak ada
+
+Kelvin
+1. Pembuatan Desaign Bespoke Sesuai Mockup Sesuai Dengan Presentasi
+2. Revisi ukuran gambar untuk halaman awal
+3. tidak ada
+
+Kelvin Angviesta
+1. Revisi Pada Stylus
+2. Penambahan gambar baru dan revisi pada stylus
+3. tidak ada
+
+Luciano prawira
+1. Memulai Bereksperimen di Brancing Eksperimen
+2. Menambahkan gambar depan pada slide awal di branch eksperimen
+3. tidak ada
+
+Daily Scrum - 30/05/2016
+Hans Liu Winarta( Scrum Master )
+1. Revisi penulisan pada list nama anggota kelompok
+2. Update gambar dan perbaikan pada stylus
+3. tidak ada
+
+Kelvin
+1. Revisi ukuran gambar untuk halaman awal
+2. Perubahan transisi pada slide
+3. tidak ada
+
+Kelvin Angviesta
+1. Penambahan gambar baru dan revisi pada stylus
+2. Penambahan isi Presentasi slide
+
+Daily Scrum - 31/05/2016
+Hans Liu Winarta( Scrum Master )
+1. Update gambar dan perbaikan pada stylus
+2. Penambahan Materi Presentasi
+3. tidak ada
+
+Kelvin
+1. Perubahan transisi pada slide
+2. Pencarian Materi Tambahan
+3. tidak ada
+
+Kelvin Angviesta
+1. Penambahan isi Presentasi slide
+2. Penambahan Materi dan isi Presentasi
+3. tidak ada
+
+Luciano prawira
+1. Penambahan gambar dan materi pada slide
+2. Pencarian materi tambahan
+3. tidak ada
+
+Daily Scrum - 02/06/2016
+Luciano prawira(Scrum Master)
+1. Pencarian materi tambahan
+2. Perubahan style presentasi
+3. tidak ada
+
+Hans Liu Winarta
+1. Penambahan Materi Presentasi
+2. Perubahan penulisan pada slide
+3. tidak ada
+
+Kelvin
+1. Pencarian Materi Tambahan
+2. penambahan gif dan slide tambahan
+3. tidak ada
+
+Kelvin Angviesta
+1. Penambahan Materi dan isi Presentasi
+2. Revisi Gambar
+3. tidak ada
+
+Daily Scrum - 03/06/2016
+Luciano prawira(Scrum Master)
+1. Perubahan style presentasi
+2. Perubahan isi presentasi
+3. tidak ada
+
+Hans Liu Winarta
+1. Perubahan penulisan pada slide
+2. Perubahan minor pada isi slide
+3. tidak ada
+
+Kelvin
+1. penambahan gif dan slide tambahan
+2. penambahan gambar untuk presentasi
+3. tidak ada
+
+Kelvin Angviesta
+1. Revisi Gambar
+2. Penghapusan materi yang tidak diinginkan
+3. tidak ada
+
+Daily Scrum - 04/06/2016
+Luciano prawira(Scrum Master)
+1. Perubahan isi presentasi
+2. Melengkapi Materi untuk presentasi
+3. tidak ada
+
+Hans Liu Winarta
+1. Perubahan minor pada isi slide
+2. Penyusunan materi yang hendak di presentasikan
+3. tidak ada
+
+Kelvin
+1. penambahan gambar untuk presentasi
+2. Penyusunan materi yang hendak di presentasikan
+3. tidak ada
+
+Kelvin Angviesta
+1. Penghapusan materi yang tidak diinginkan
+2. Penyusunan materi yang hendak di presentasikan
+3. tidak ada
+
+Daily Scrum - 05/06/2016
+Kelvin(Scrum Master)
+1. Penyusunan materi yang hendak di presentasikan
+2. Pembentukan slide presentasi Final
+3. tidak ada
+
+Hans Liu Winarta
+1. Penyusunan materi yang hendak di presentasikan
+2. Pembentukan slide Presentasi Final
+3. tidak ada
+
+Luciano prawira
+1. Melengkapi Materi untuk presentasi
+2. Pembentukan slide presentasi Final
+3. tidak ada
+
+Kelvin Angviesta
+1. Penyusunan materi yang hendak di presentasikan
+2. Pembentukan Slide Presentasi Final
+3. tidak ada
