@@ -16,5 +16,6 @@ Then, install dependencies and run the preview server:
 
 ```bash
 $ npm install && bower install
+$ npm install bespoke-state
 $ gulp serve
 ```
