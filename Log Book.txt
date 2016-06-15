@@ -1,3 +1,13 @@
+Informasi UMUM :
+1. Kelvin (121110651)
+2. Luciano Prawira (12111)
+3. Hans Liu Winarta (121110570)
+4. Kelvin Ang Viesta (141111511)
+
+Alamat Github : https://github.com/TugasTKPPLSmoking/Smoking
+Alamat Trello : https://trello.com/b/pfwHP4m7/tugas-tkppl
+
+
 Daily Scrum - 23/05/2016
 Kelvin ( Scrum Master )
 1. -
